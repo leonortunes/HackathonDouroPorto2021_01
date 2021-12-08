@@ -1,0 +1,13 @@
+mkdocs.yml
+site_name: Hackathon Douro & Porto 2021 - Desafio 03
+repo_url: https://github.com/antoniovalente/HackathonDouroPorto2021_03
+site_author: Antonio Valente
+site_description: Desafio 3 - 
+nav:
+    - Home: index.md
+    - Equipa: team.md
+docs/
+    index.md
+    team.md
+    LICENSE
+    images/
