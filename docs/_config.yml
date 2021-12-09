@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+nav:
+    - Home: 'index.md'
+    - Objetivo: 'goal.md'
+    - Proposta: 'propousal.md'
+    - Resultados: 'results.md'
+    - Conclusões: 'conclusions.md'
+    - Equipa: 'team.md'
