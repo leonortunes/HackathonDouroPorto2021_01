@@ -9,7 +9,7 @@ Os autores desejam agradecer ao [IVDP](https://www.ivdp.pt/), na pessoa do seu p
 
 À [Emergence](http://emergencehackathon.com/) por todo o empenho na organização desta [Hackaton Douro & Porto](https://hackdouroeporto.com/).
 
-À [ADVID]() pelos desafios propostos e por toda a colaboração prestada para as soluções encontradas.
+À [ADVID](https://www.advid.pt/) e ao [CoLab Vines & Wines](https://www.colabvinesandwines.pt/en/) pelos desafios propostos e por toda a colaboração prestada para as soluções encontradas.
 
 &nbsp;
 # Instituições de Ensino Superior
