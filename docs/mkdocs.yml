@@ -1,0 +1,21 @@
+mkdocs.yml
+site_name: Hackathon Douro & Porto 2021 - Desafio 01
+repo_url: https://github.com/antoniovalente/HackathonDouroPorto2021_01
+site_author: Antonio Valente
+site_description: Desafio 1 
+nav:
+    - Home: 'index.md'
+    - Objetivo: 'goal.md'
+    - Proposta: 'propousal.md'
+    - Resultados: 'results.md'
+    - Conclusões: 'conclusions.md'
+    - Equipa: 'team.md'
+docs/
+    index.md
+    goal.md
+    propousal.md
+    results.md
+    conclusions.md
+    team.md
+    LICENSE
+    images/
