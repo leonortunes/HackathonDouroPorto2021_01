@@ -20,13 +20,15 @@ A figura seguinte mostra alguns dos dados a analisar.
 
 ![Imgur](https://i.imgur.com/XFZpbQ4.png)
 
-Numa primeira seleção, decidiu-se analisar os dados de 2020. Somente os anos de 2020 e 2021 englobavam todos os parâmetros e o ano de 2021 tinha mais falhas nos dados do PH base. 
+Numa primeira seleção, decidiu-se analisar os dados de 2020. Somente os anos de 2020 e 2021 englobavam todos os parâmetros e o ano de 2021 tinha mais falhas nos dados do PH base. Foram, também, selecionados os dados do PH base recolhidos no local mais próximo dos sensores de humidade do solo. 
 
 Como os dados têm diferentes frequências de amostragem, procedeu-se a uma uniformização tendo como base uma frequência diária. 
 
 ![Imgur](https://i.imgur.com/atbEPhc.png)
 
 Os dados do Potencial Hídrico de base têm uma frequência semanal sendo, por isso, necessário utilizar uma aproximação linear para 'preencher' os dados em falta.
+
+
 
 ## Avaliação
 
