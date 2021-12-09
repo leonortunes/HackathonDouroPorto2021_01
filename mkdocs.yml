@@ -1,0 +1,11 @@
+site_name: Hackathon 2021
+repo_url: https://github.com/antoniovalente/HackathonDouroPorto2021_01
+site_author: Antonio Valente
+site_description: Desafio 1
+nav:
+    - Home: 'index.md'
+    - Objetivo: 'goal.md'
+    - Proposta: 'propousal.md'
+    - Resultados: 'results.md'
+    - Conclusões: 'conclusions.md'
+    - Equipa: 'team.md'
