@@ -25,14 +25,6 @@ tecnologias não estão actualmente vocacionadas para a gestão da água na vinh
 
 Assim, para que este tipo de monitorização possa ser amplamente utilizado como input na optimização das práticas culturais, é necessária que esta avaliação do estado hídrico possa ser feita de uma forma mais expedita, que permita um número maior de avaliações, uma abrangência de áreas maiores, e uma alocação de menos recursos.
 
-O desafio
---------------
-Método inovador que torne mais acessível e expedito o processo de monitorização do
-estado hídrico da vinha.
-
-
-A proposta
-------------
 
 <!-- A proposta apresentada pela nossa equipa tem dois grandes pontos:
 
