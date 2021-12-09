@@ -9,9 +9,9 @@ como dados meteorológicos, de satélite, ou obtidos através de drone e por dif
 tipos de sensores.
 
 Tipos de dados analizados (ADVID, Quinta de Soutelo - Douro):
-- históricos de dados meteorológicos e acesso a rede de estações meteorológicas
-- históricos de potenciais hídricos
-- acesso a dados de sondas de humidade
+-   históricos de dados meteorológicos e acesso a rede de estações meteorológicas
+-   históricos de potenciais hídricos
+-   acesso a dados de sondas de humidade
 
 <!-- Colocar informação sobre o local de recolha dos dados - Imagem aéra da quinta -->
 
