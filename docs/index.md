@@ -9,7 +9,7 @@ Enquadrado na missão do Instituto do Vinho do Douro e do Porto, I.P., de estimu
 
     
     
-A nossa equipa ([António Valente](http://www.avalente.utad.pt/), Salviano Soares, Aureliano Malheiro, João Santos, Filipe Pinto, Sérgio Silva e Margarida Jerónimo, em colaboração com a [Associação para o Desenvolvimento da Viticultura Duriense – ADVID](https://www.advid.pt/), ficou responsável pelo desafio #1. 
+A nossa equipa [António Valente](avalente@utad.pt), [Salviano Soares](salblues@utad.pt), [Aureliano Malheiro](amalheir@utad.pt), [João Santos](jsantos@utad.pt), [Filipe Cabral Pinto](filipe-c-pinto@alticelabs.com), [Sérgio Silva](spsantossilva@gmail.com) e [Margarida Gerónimo](guijeronimo@msn.com), em colaboração com a [Associação para o Desenvolvimento da Viticultura Duriense – ADVID](https://www.advid.pt/), ficou responsável pelo desafio #1. 
 
 ## Desafio #1 - Método inovador que torne mais acessível e expedito o processo de monitorização do estado hídrico da vinha
 
@@ -44,8 +44,12 @@ A proposta
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U12pQMDb9zc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
 
 -->
+&nbsp;
 
-     
-     
+*** 
+
+&nbsp;
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
