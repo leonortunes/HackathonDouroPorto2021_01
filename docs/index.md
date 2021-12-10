@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: default
 title: Desafio 1
 description: Método acessível e expedito de monitorização do estado hídrico da vinha
 keywords: vinha, estado hídrico
