@@ -1,3 +1,9 @@
+---
+layout: page
+title: Conclusões
+description: Conclusões do objectivo 1
+---
+
 # Conclusões
 
 &nbsp;
