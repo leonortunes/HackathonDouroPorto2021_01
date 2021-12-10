@@ -1,3 +1,9 @@
+---
+layout: page
+title: Proposta
+description: Proposta do objectivo 1
+---
+
 # Proposta
 
 Explorar as correlações entre os potenciais hídricos e diversos tipos de dados
