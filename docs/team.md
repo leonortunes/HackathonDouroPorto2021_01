@@ -1,3 +1,9 @@
+---
+layout: page
+title: Equipa
+description: Equipa do objectivo 1
+---
+
 # A Equipa
 
 A equipa é constituída por [António Valente](avalente@utad.pt), [Salviano Soares](salblues@utad.pt), [Aureliano Malheiro](amalheir@utad.pt), [João Santos](jsantos@utad.pt), [Filipe Cabral Pinto](filipe-c-pinto@alticelabs.com), [Sérgio Silva](spsantossilva@gmail.com) e [Margarida Gerónimo](guijeronimo@msn.com).
