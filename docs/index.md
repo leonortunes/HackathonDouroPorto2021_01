@@ -1,3 +1,10 @@
+---
+layout: frontpage
+title: Desafio 1
+description: Método acessível e expedito de monitorização do estado hídrico da vinha
+keywords: vinha, estado hídrico
+---
+
 Hackathon Douro & Porto 2021
 ========================
 
