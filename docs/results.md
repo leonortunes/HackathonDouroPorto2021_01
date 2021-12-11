@@ -70,6 +70,7 @@ Nas próximas imagens podemos observar dois modelos: Gradient Boosted Trees e Ra
 As simulações realizadas, onde se obtiveram excelentes resultados, recorreram a dados da humidade do solo de bastante qualidade e confiança. Esses dados, foram obtidos através de uma sonda [EnviroSCAN da Sentek](https://sentektechnologies.com/product-range/soil-data-probes/enviroscan/?gclid=CjwKCAiAtdGNBhAmEiwAWxGcUtl4S30Mympqj6JVECBYYTX3DGccX_9WpkWaLC3ry23Ulh-RGx94ChoCn1kQAvD_BwE). No entanto, trata-se de um equipamento dispendioso e fora do alcance de muitos produtores. Como esteve sempre presente a ideia de 'low cost' para este desafio, foi também feita uma avaliação não considerando as medições do sensor de humidade do solo, tendo sido obtidos os seguintes resultados:
 
 |Model |	Correlation |	Standard Deviation |
+| --- | --- | --- |
 |Generalized Linear Model	| 0,872	| 0,008 |
 |Deep Learning |	0,871 |	0,008 |
 |Decision Tree	| 0,878	| 0,006 |
