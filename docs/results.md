@@ -53,17 +53,17 @@ Deste modo, vemos que existem pelo menos 3 modelos (Decision Tree, Random Forest
 
 A título, meramente de exemplo, apresenta-se o gráfico de dispersão entre a Humidade do Solo e, o Potencial Hídrico de base e o Potencial Hídrico de base previsto, sendo que o erro máximo é na ordem 0,081 %.
 
-![Imgur](https://i.imgur.com/z9xLT66.png)
+![Dispersão 1](https://i.imgur.com/z9xLT66.png)
 
 Na imagem seguinte podemos ver o gráfico de dispersão entre os valores reais e previstos do Potencial Hídrico de base:
 
-![Imgur](https://i.imgur.com/87DR9Id.png)
+![Dispersão 2](https://i.imgur.com/87DR9Id.png)
 
 Nas próximas imagens podemos observar dois modelos: Gradient Boosted Trees e Random Forest.
 
-[Gradient Boosted Trees Model](https://i.imgur.com/UwCe8GJ.png)
+![Gradient Boosted Trees Model](https://i.imgur.com/UwCe8GJ.png)
 
-[Random Forest Model](https://i.imgur.com/BGGf4S6.png)
+![Random Forest Model](https://i.imgur.com/BGGf4S6.png)
 
 ### Avalição sem considerar a humidade do solo
 
@@ -81,13 +81,13 @@ Com uma validação na ordem dos 37.81 %.
 
 Obtendo-se os seguintes modelos:
 
-[Decision Tree](https://i.imgur.com/bEjhnzS.png)
+![Decision Tree](https://i.imgur.com/bEjhnzS.png)
 
-[Random Forest](https://i.imgur.com/zsNxOks.png)
+![Random Forest](https://i.imgur.com/zsNxOks.png)
 
 Obtendo o seguinte gráfio de previsões.
 
-[SVM Predictions Chart](https://i.imgur.com/sYAoIfC.png)
+![SVM Predictions Chart](https://i.imgur.com/sYAoIfC.png)
 
 
 [^1]: PH base - Potencial Hídrico de base. [Medido através da Câmara de Scholander](https://www.advid.pt/pt/servicos/viticultura/monitorizacao-do-estado-hidrico-da-videira).
