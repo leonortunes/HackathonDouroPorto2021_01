@@ -7,7 +7,7 @@ description: Objectivo do desafio 1
 # Objetivo
 
 
-Desenvolver ou identificar método alternativo à utilização da Câmara de Scholander,
+Desenvolver ou identificar um método alternativo à utilização da Câmara de Scholander,
 através da integração de fontes de dados externas e da exploração de correlações entre
 estes e o estado hídrico, passível de ser pré-validado, de forma a que as leituras obtidas
 possam ser utilizadas com um grau de segurança aceitável no suporte de decisão à
