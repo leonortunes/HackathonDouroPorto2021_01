@@ -36,7 +36,7 @@ Os dados do Potencial Hídrico de base têm uma frequência semanal sendo, por i
 
 ## Avaliação
 
-Depois destes passos na preparação dos dados, foi utilizado uma plataforma para Data Science e Machine Learning - [RapidMiner](https://rapidminer.com/) tendo sido obtidos os seguintes resultados:
+Depois destes passos na preparação dos dados, foi utilizada uma plataforma para Data Science e Machine Learning - [RapidMiner](https://rapidminer.com/), tendo sido obtidos os seguintes resultados:
 
 
 
@@ -51,7 +51,7 @@ Depois destes passos na preparação dos dados, foi utilizado uma plataforma par
 
 Deste modo, vemos que existem pelo menos 3 modelos (Decision Tree, Random Forest e Gradient Boosted Trees), que garantem uma correlação perfeita entre a humidade do solo e o Potencial Hídrico de base.
 
-A título, meramente de exemplo, apresenta-se o gráfico de dispersão entre a Humidade do Solo e, o Potencial Hídrico de base e o Potencial Hídrico de base previsto, sendo que o erro máximo é na ordem 0,081 %.
+A título meramente de exemplo, apresenta-se o gráfico de dispersão entre a Humidade do Solo e o Potencial Hídrico de base, e o Potencial Hídrico de base previsto, sendo que o erro máximo é na ordem 0,081 %.
 
 ![Dispersão 1](https://i.imgur.com/z9xLT66.png)
 
